@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/oap-xwalk/:/",
-    "/content/oap-xwalk/configuration:/.helix/config.json",
-    "/content/oap-xwalk/metadata:/metadata.json"
+    "/content/oap-xwalk2/:/",
+    "/content/oap-xwalk2/configuration:/.helix/config.json",
+    "/content/oap-xwalk2/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/oap-xwalk/"
+    "/content/oap-xwalk2/"
   ]
 }
